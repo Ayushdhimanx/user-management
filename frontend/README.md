@@ -27,4 +27,3 @@ The application allows administrators to perform operations like adding, editing
 
 ---
 
-## 📂 Folder Structure
